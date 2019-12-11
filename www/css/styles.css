@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+
+h1{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+p{
+  font-family: 'Merriweather', serif;
+
+}
+
+.slides{
+  background-color: powderblue;
+}
+
+.part1{
+  width:100%;
+  text-align: center;
+
+}
+
+.part1 h1{
+  padding: 30px 30px 20px;
+
+}
+
+.part1 p{
+  padding: 0px 30px 20px;
+
+}
+
+
+.study{
+  width:100%;
+  margin;
+}
+
+.part2{
+  width:100%;
+  text-align: center;
+
+}
+
+.part2 h1{
+  padding: 30px 30px 20px;
+
+}
+
+.part2 p{
+  padding: 0px 30px 20px;
+
+}
+
+.hardwork{
+  width:100%;
+  margin: 0 auto;
+}
+
+.part3{
+  width:100%;
+  text-align: center;
+
+}
+
+.part3 h1{
+  padding: 30px 30px 20px;
+
+}
+
+.part3 p{
+  padding: 0px 30px 20px;
+
+}
+
+.graduate{
+  width:100%
+
+}
+
+@media screen and (max-width: 360){
+.part1{
+  width:100%;
+  padding:10px 10px 10px;
+}
+.study{
+  padding:10% 10%;
+}
+
+.part2{
+  width:100%;
+  padding:10px 10px 10px;
+}
+
+.part3{
+  width:100%;
+  padding:10px 10px 10px;
+}
+
+
+}
